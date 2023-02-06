@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Fjalla+One&family=PT+Serif&family=Roboto+Mono:wght@500&family=Roboto:wght@100&display=swap');
 .back-video{
 position: absolute;
 right: 0;
@@ -7,8 +8,9 @@ background-size: cover ;
 filter:blur(10px);
 }
 
-body{
+body {
     color: aliceblue;
+    font-family: "roboto mono", sans-serif;
 }
 h1{
     position: center;
