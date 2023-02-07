@@ -75,14 +75,14 @@ h1{
     font-size: 25px ;
 }
 .font1{
-    background: linear-gradient(90deg,#00dbde,#fc00ff,#ff0000,#ffff00,#ff00f3,#0033ff,#ff00cd,#ff0000);
+    background: linear-gradient(90deg,#00dbde,#fc00ff,#0033ff,#ffff00,#ff00f3,#0033ff,#ff00cd,#ff0000,#ffff00,#0033ff,#00dbde,#fc00ff,#ff0000,#ff00cd,#ffff00);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 60px;
     text-transform: uppercase;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 300% 300%;
-    animation: animate 10s linear infinite;
+    animation: animate 15s linear infinite;
 }
 @keyframes animate{
     0%{
