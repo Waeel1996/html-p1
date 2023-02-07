@@ -8,6 +8,15 @@ z-index: -1;
 background-size: cover ;
 filter:blur(6px);
 }
+img{
+    max-width: 10%;
+    max-height: 10%;
+    float: right;
+    position: absolute;
+    right: 660px;
+    bottom: 798px;
+
+}
 
 body {
     margin: 0;
@@ -25,22 +34,22 @@ body {
     color: aliceblue;
     position: absolute;
     right: 890px;
-    bottom: 681px;
+    bottom: 625px;
     font-size: 25px;
     
 }
 .container4{
     color: aliceblue;
     position: absolute;
-    left: 20px;
-    bottom: 681px;
+    left: 60px;
+    bottom: 625px;
     font-size: 25px;
 }
 .container5{
     color: aliceblue;
     position: absolute;
     right: 100px;
-    bottom: 681px;
+    bottom: 625px;
     font-size: 25px;
 }
 
