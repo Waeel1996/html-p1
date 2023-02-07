@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Fjalla+One&family=Mochiy+Pop+One&family=Oswald&family=PT+Serif&family=Poppins&family=Roboto+Mono:wght@500&family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Fjalla+One&family=Mochiy+Pop+One&family=Oswald&family=PT+Serif&family=Roboto+Mono:wght@500&family=Roboto:wght@100&display=swap');
 .back-video{
 position: absolute;
@@ -9,32 +10,38 @@ filter:blur(6px);
 }
 
 body {
-    font-family: "Mochiy Pop One", sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    font-family: "poppins", sans-serif;
 }
 
-.container1{
-    color: aliceblue;
-}
+
 .container2{
     color: aliceblue;
 }
 .container3{
     color: aliceblue;
     position: absolute;
-    right: 910px;
-    bottom: 775px;
+    right: 890px;
+    bottom: 681px;
+    font-size: 25px;
+    
 }
 .container4{
     color: aliceblue;
     position: absolute;
     left: 20px;
-    bottom: 775px;
+    bottom: 681px;
+    font-size: 25px;
 }
 .container5{
     color: aliceblue;
     position: absolute;
     right: 100px;
-    bottom: 775px;
+    bottom: 681px;
+    font-size: 25px;
 }
 
 .container6{
@@ -55,13 +62,17 @@ h1{
 .container0{
     transform: translate(-50%,-50%);
 }
+.container11{
+    font-size: 25px ;
+}
 .font1{
     background: linear-gradient(90deg,#00dbde,#fc00ff,#ff0000,#ffff00,#ff00f3,#0033ff,#ff00cd,#ff0000);
-    font-family: sans-serif;
-    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
     text-transform: uppercase;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-size: 300% 300%;
     animation: animate 10s linear infinite;
 }
 @keyframes animate{
