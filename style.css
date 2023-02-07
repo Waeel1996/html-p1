@@ -6,18 +6,19 @@ right: 0;
 bottom: 0;
 z-index: -1;
 background-size: cover ;
-filter:blur(6px);
+filter:blur(10px);
 }
+
 img{
+    cursor: pointer;
     max-width: 10%;
     max-height: 10%;
     float: right;
     position: absolute;
-    right: 670px;
+    right: 615px;
     bottom: 850px;
 
 }
-
 body {
     margin: 0;
     padding: 0;
@@ -25,8 +26,6 @@ body {
     justify-content: center;
     font-family: "poppins", sans-serif;
 }
-
-
 .container2{
     color: aliceblue;
 }
@@ -68,27 +67,27 @@ body {
 h1{
     position: center;
 }
-.container0{
-    transform: translate(-50%,-50%);
-}
 .container11{
     font-size: 25px ;
 }
 .font1{
-    background: linear-gradient(90deg,#00dbde,#fc00ff,#0033ff,#ffff00,#ff00f3,#0033ff,#ff00cd,#ff0000,#ffff00,#0033ff,#00dbde,#fc00ff,#ff0000,#ff00cd,#ffff00);
+    letter-spacing: 10px;
+    cursor: pointer;
+    background: linear-gradient(90deg,#ff0000,#ffff00,#00dbde,#ff00f3,#0033ff,#ff00c4,#ff0000);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 60px;
     text-transform: uppercase;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 300% 300%;
-    animation: animate 15s linear infinite;
+    animation: animate 8s linear infinite;
 }
 @keyframes animate{
     0%{
-        background-position: 0%;
+        background-position:  0%;
     }
     100%{
         background-position: 400%;
     }
-}
+    
+    }
