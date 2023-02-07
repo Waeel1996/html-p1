@@ -13,8 +13,8 @@ img{
     max-height: 10%;
     float: right;
     position: absolute;
-    right: 660px;
-    bottom: 798px;
+    right: 670px;
+    bottom: 850px;
 
 }
 
@@ -34,22 +34,22 @@ body {
     color: aliceblue;
     position: absolute;
     right: 890px;
-    bottom: 625px;
+    bottom: 680px;
     font-size: 25px;
     
 }
 .container4{
     color: aliceblue;
     position: absolute;
-    left: 60px;
-    bottom: 625px;
+    left: 20px;
+    bottom: 680px;
     font-size: 25px;
 }
 .container5{
     color: aliceblue;
     position: absolute;
     right: 100px;
-    bottom: 625px;
+    bottom: 680px;
     font-size: 25px;
 }
 
