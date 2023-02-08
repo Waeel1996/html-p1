@@ -16,7 +16,7 @@ img{
     float: right;
     position: absolute;
     right: 615px;
-    bottom: 850px;
+    bottom: 880px;
 
 }
 body {
@@ -33,7 +33,7 @@ body {
     color: aliceblue;
     position: absolute;
     right: 890px;
-    bottom: 680px;
+    bottom: 710px;
     font-size: 25px;
     
 }
@@ -41,14 +41,14 @@ body {
     color: aliceblue;
     position: absolute;
     left: 20px;
-    bottom: 680px;
+    bottom: 710px;
     font-size: 25px;
 }
 .container5{
     color: aliceblue;
     position: absolute;
     right: 100px;
-    bottom: 680px;
+    bottom: 710px;
     font-size: 25px;
 }
 
