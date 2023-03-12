@@ -1,6 +1,6 @@
 # html-p1 login page
 
-Simple page using html, css, bootstrap5 and js.
+Simple page using html, css.
 
 ### Demo
 Live Demo :
